@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **python packages and programs for theoretical chemistry researchers.**
 
-- 🌱 I’m currently learning **how to apply c++ in chemistry better and make it easy for a chemist to use scientific programming in everyday work.**
+- 🌱 I’m currently learning **how to apply c++ in chemistry, making it easy for a chemist to use scientific programming in everyday work.**
 
 - 📫 How to reach me **mateus_barbosa@discente.ufg.br**
 
