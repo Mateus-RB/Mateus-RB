@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **how to apply c++ in chemistry, making it easy for a chemist to use scientific programming in everyday work.**
 
-- 📫 How to reach me **mateus_barbosa@discente.ufg.br**
+- 📫 How to reach me **mateus_barbosa@ufg.br**
 
 - 📄 Know about my experiences [https://www.researchgate.net/profile/Mateus-Barbosa](https://www.researchgate.net/profile/Mateus-Barbosa)
 
