@@ -21,5 +21,5 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mateus-rb&show_icons=true&theme=dark&hide_border=true&locale=en" alt="mateus-rb" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mateus-rb&theme=dark" alt="mateus-rb" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mateus-rb&theme=dark" alt="mateus-rb" /></p>
 
